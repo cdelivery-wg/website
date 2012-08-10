@@ -15,6 +15,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   users/tk0miya/index
+
 
 
 Indices and tables
