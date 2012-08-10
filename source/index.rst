@@ -1,10 +1,14 @@
-.. cdelivery Working Group documentation master file, created by
-   sphinx-quickstart on Thu Aug  9 16:46:13 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+継続的デリバリーを支える技術
+=============================
 
-Welcome to cdelivery Working Group's documentation!
-===================================================
+『継続的デリバリーを支える技術 勝手にワーキンググループ』(cdelivery-wg) は
+オレオレ継続的デリバリーを支える技術を研究する会です。
+
+* Groups: https://groups.google.com/forum/#!forum/cdelivery-wg
+* Web: http://cdelivery.workingroups.info/
+* Github: https://github.com/organizations/cdelivery-wg
+
+情報提供、実験などなどお待ちしています。
 
 Contents:
 
