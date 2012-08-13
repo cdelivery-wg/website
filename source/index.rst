@@ -16,6 +16,7 @@ Contents:
    :maxdepth: 2
 
    users/tk0miya/index
+   users/r_rudi/index
 
 
 
